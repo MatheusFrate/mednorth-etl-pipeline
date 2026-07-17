@@ -1,0 +1,22 @@
+[
+    {
+        "Email": "patricia.oliveira@mednorth.com",
+        "external_id": "R1013",
+        "date_of_birth": "1997-01-20",
+        "Hire_Date": "03/22/2019",
+        "Department": null,
+        "Status": "active",
+        "First_Name": "Patricia",
+        "Last_Name": "Oliveira",
+        "Phone": "+15550123456",
+        "City": "Dallas",
+        "State": "TX",
+        "Zip_Code": null,
+        "source_system": "MedNorth_EMR",
+        "hire_date": "2019-03-22",
+        "Full_Name": "Oliveira, Patricia",
+        "City_State": "Dallas, TX",
+        "Notes": "Unrecognized dept code - new specialty added",
+        "rejection_reason": "Validation Error: 1 validation error for Jaf\ndepartment\n  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.13/v/string_type"
+    }
+]

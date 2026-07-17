@@ -1,0 +1,16 @@
+Record_ID,Full_Name,DOB,Email,Phone,Hire_Date,Dept_Code,City_State,Active_Flag,Notes
+R1001,"Silva, Ana",03/12/1990,ana.silva@mednorth.com,(555) 123-4567,01/15/2019,CARD,"Austin, TX",Active,Prefers email contact
+R1002,Carlos Mendes,1988.07.22, carlos.mendes@MEDNORTH.com ,555.234.5678,2020-03-01,ER,Dallas - TX,Y,
+R1003,"Souza, Beatriz",14-11-1995,,+1 555 345 6789,03/10/2021,PED,"Houston, TX",1,
+R1004,Fernanda Costa,09/30/1992,fernanda.costa@mednorth.com,,07/01/2018,ADM,"San Antonio, TX",Active,On leave
+R1005,"Silva, Ana",03/12/1990,ana.silva@mednorth.com,(555) 123-4567,01/15/2019,CARD,"Austin, TX",Active,Duplicate of R1001 - system glitch
+R1006,Rodrigo Alves,02/29/1996,rodrigo.alves@mednorth.com,555-456-7890,11/05/2022,ER,"Fort Worth,TX",Terminated,
+R1007,"Almeida, Juliana",1985/05/09,juliana.almeida@mednorth.com,(555) 567-8901,2019-09-15,CARD,,Active,
+R1008,Bruno Teixeira,03/04/1993,bruno.teixeira@mednorth.com,(555) 678-9012,04/03/2020,PED,"Austin, TX",Active,DOB format ambiguous - confirm with HR
+R1009,Camila Rocha,12/25/1991,camila.rocha@mednorth.com,555.789.0123,06/12/2017,ADM,"Dallas, TX",N,
+R1010,Diego Pereira,,diego.pereira@mednorth.com,(555) 890-1234,10/10/2020,ER,Houston - TX,Active,DOB missing from source
+R1011,"Costa, Larissa",1994-08-18,larissa.costa@mednorth.com,,01/01/2016,CARD,"Austin, TX",Active,
+R1012,Marcos Vinicius,07/07/1989,marcos.vinicius@mednorth.com,(555) 901-2345,2021.02.14,PED,"San Antonio,TX",Active,
+R1013,"Oliveira, Patricia",20-01-1997,patricia.oliveira@mednorth.com,555 012 3456,03/22/2019,XYZ,"Dallas, TX",Active,Unrecognized dept code - new specialty added
+R1014,Rafael Nunes,11/11/1990,,555.111.2222,05/05/2018,ER,,0,No email or city on file
+R1015,Fernanda Costa,09/30/1992,fernanda.costa@mednorth.com,,07/01/2018,ADM,"San Antonio, TX",Active,Duplicate of R1004 with same details
