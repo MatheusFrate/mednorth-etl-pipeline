@@ -43,14 +43,14 @@ To merge data from different sources, I used the Email field as the primary key.
 
 ## Part 3: Short answer
 
-**[Original Text in Portuguese for Practice]**
-
 **1. Intermittent overnight timeout failures:**
 I would check the traffic patterns, maybe some infrastructure maintenance, or if they are running other routines like synchronizations or backups. These processes can overload servers or lock tables, slowing the process and causing the timeout error.
 
 **2. Resilient web scraper design:**
 If the page structure occasionally changes, I think it's better to look for stable elements. I would avoid using generic CSS classes, and instead use semantic identifiers or accessibility labels.
 To know when the scraper breaks, it's important to implement validations like using Pydantic to raise an error if the data doesn't match with the correct type.
+
 **3. Handling unexpected HR status values:**
 The goal would be to align on the business rule with the customer success team and understand what these statuses imply. If I need to continue processing before this definition, I would store this 'wrong' data in the rejected Queue for later processing.
+
 ---
